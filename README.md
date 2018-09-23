@@ -1,1 +1,1 @@
-# SpeakingNews
+# Reading news while listening
